@@ -1,0 +1,6 @@
+fastapi==0.96.0
+fastapi-pagination==0.12.4
+psycopg2-binary==2.9.6
+pydantic[dotenv]==1.10.9
+sqlalchemy==2.0.15
+uvicorn==0.22.0
